@@ -1,3 +1,19 @@
 {
-  "users": []
+  "owner": {
+    "id": "6285247532859",
+    "name": "Owner Bot",
+    "status": "active"
+  },
+  "users": [
+    {
+      "id": "6285821701227",
+      "name": "User A",
+      "status": "active"
+    },
+    {
+      "id": "62858217012273",
+      "name": "User B",
+      "status": "inactive"
+    }
+  ]
 }
